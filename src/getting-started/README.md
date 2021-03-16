@@ -1,4 +1,10 @@
-Welcome
+# Getting Started
+
+## Installation
+
+  - [Installation](installation.md)
+
+## Usage
 
 `comtrya <manifest-directory> [FLAGS] [OPTIONS]`
 
@@ -27,4 +33,4 @@ comtrya . -m EXAMPLE
 comtrya . -m EXAMPLE,TEST
 # executes all manifestes in the apps directory
 comtrya ./apps
-_```
+``` 
