@@ -3,3 +3,10 @@
 - [Comtrya](README.md)
 - [Getting Started](getting-started/README.md)
   - [Installation](getting-started/installation.md)
+- [Manifests](manifests/README.md)
+  - [Syntax](manifests/syntax.md)
+  - [Dependencies](manifests/dependencies.md)
+- [Actions]
+  - Files
+  - Directories
+  - Packages
