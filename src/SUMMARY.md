@@ -6,7 +6,8 @@
 - [Manifests](manifests/README.md)
   - [Syntax](manifests/syntax.md)
   - [Dependencies](manifests/dependencies.md)
-- [Actions]
-  - Files
-  - Directories
-  - Packages
+- [Actions](actions/README.md)
+  - [Files](actions/files.md)
+  - [Directories](actions/directories.md)
+  - [Packages](actions/packages.md)
+- [Provider](provider/README.md)
