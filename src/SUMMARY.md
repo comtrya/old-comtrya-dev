@@ -4,6 +4,7 @@
 - [Getting Started](getting-started/README.md)
   - [Installation](getting-started/installation.md)
 - [Manifests](manifests/README.md)
+  - [File & Directory Layout](layout.md)
   - [Syntax](manifests/syntax.md)
   - [Dependencies](manifests/dependencies.md)
 - [Actions](actions/README.md)
