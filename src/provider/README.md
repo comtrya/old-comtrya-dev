@@ -1,6 +1,6 @@
 # Provider
 
-This is a curated list of providers supported for Actions.
+This is a curated list of providers supported for [Actions](actions/README.md).
 
 ## MacOs
 
@@ -12,4 +12,4 @@ This is a curated list of providers supported for Actions.
 
 ## Windows
 
-WIP
+`provider: winget`
