@@ -1,14 +1,7 @@
-# Packages
+# Examples
 
-| Key          | Type   |  Optional   | Description |
-| ------------ | ------ | ----------- | ----------- |
-| `action`     | string | no          | Values: `package.install`    |
-| `name`       | string | no          |
-| `list`       | string | yes         |
-| `provider`   | string | yes         | renderes files using [context providers](misc/context-provider.md), Values: `true` or `false`  |
-| `repository` | string | yes         | octal permissions   |
+This is WIP.
 
-## Examples
 
 ```yaml
 # Single package
@@ -44,7 +37,13 @@ actions:
     provider: brew
     repository: EXAMPLE/tap
 
-    - action: package.install
+  - action: package.install
     name: package_name
     provider: winget
+
+actions:
+  - action: file.copy
+    from: SOURCE_FILE
+    to: DESTINATION_FILE
+    template: false
 ```

@@ -1,6 +1,6 @@
 # Provider
 
-This is a curated list of providers supported for [Actions](actions/README.md).
+This is a curated list of providers supported for `Comtrya`.
 
 ## MacOs
 

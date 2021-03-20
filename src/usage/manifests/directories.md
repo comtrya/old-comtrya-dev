@@ -5,6 +5,7 @@
 | `action`   | string   | Values: `directory.copy`    |
 | `from`     | string   | source file   |
 | `to`       | string   | destination file   |
+
 ## Examples
 
 ```yaml
