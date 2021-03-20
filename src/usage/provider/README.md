@@ -1,6 +1,6 @@
 # Provider
 
-This is a curated list of providers supported for `Comtrya`.
+This is a curated list of providers supported by`Comtrya`.
 
 ## MacOs
 

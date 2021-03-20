@@ -17,6 +17,5 @@ Welcome to `Comtrya`. This is better, yes?
       - [package.install](usage/manifests/actions/package-install.md)
   - [Manifest provider](usage/provider/README.md)
   - [Variables](usage/variables/README.md)
-    - [User](usage/variables/user.md)
 - [Styleguide](styleguide/README.md)
 - [Examples](examples/README.md)
