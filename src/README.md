@@ -17,5 +17,5 @@ Welcome to `Comtrya`. This is better, yes?
   - [Manifest provider](usage/provider/README.md)
   - [Variables](usage/variables/README.md)
     - [User](usage/variables/user.md)
-- [Styelguide](styleguide/README.md)
+- [Styleguide](styleguide/README.md)
 - [Examples](examples/README.md)
