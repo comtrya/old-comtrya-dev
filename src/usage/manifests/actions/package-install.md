@@ -1,4 +1,4 @@
-# Packages
+# package.install
 
 | Key          | Type   |  Optional   | Description |
 | ------------ | ------ | ----------- | ----------- |

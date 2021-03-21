@@ -1,4 +1,4 @@
-# Directories
+# directory.copy
 
 | Key        | Type     |  Optional   | Description |
 | ---------- | -------- | ----------- | ----------- |

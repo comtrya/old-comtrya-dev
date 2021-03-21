@@ -1,4 +1,4 @@
-# Files
+# file.copy
 
 | Key        | Type     |  Optional   | Description |
 | ---------- | -------- | ----------- | -------- |

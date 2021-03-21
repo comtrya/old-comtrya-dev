@@ -1,4 +1,4 @@
-# Actions
+# actions
 
 `Comtrya`supports at the moment the following actions:
 
