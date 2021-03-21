@@ -3,7 +3,6 @@
 - [Manifest layout](layout/README.md)
   - [Files](layout/files.md)
   - [Directories](layout/directories.md)
-
 - [Manifests](manifests/README.md)
   - [actions](manifests/actions/README.md)
     - [directory.copy](manifests/actions/directory-copy.md)
