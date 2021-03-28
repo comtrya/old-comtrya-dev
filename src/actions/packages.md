@@ -36,7 +36,7 @@ actions:
     list:
       - package_name_1
       - package_name_2
-    provider: aptitude
+    provider: brew
     repository: homebrew/cask
 ```
 
